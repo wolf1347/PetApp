@@ -1,4 +1,4 @@
-package com.A.M.PetManager
+package com.am.petmanager
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
@@ -8,4 +8,5 @@ class PetManagerApplication
 
 fun main(args: Array<String>) {
 	runApplication<PetManagerApplication>(*args)
+	println("Hello world!")
 }

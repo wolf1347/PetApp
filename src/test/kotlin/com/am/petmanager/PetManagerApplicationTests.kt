@@ -1,4 +1,4 @@
-package com.A.M.PetManager
+package com.am.petmanager
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
